@@ -10,6 +10,7 @@ If a node is red, then both its children are black.
 Every simple path from a node to a descendant leaf contains the same number of black nodes.
 
 TIME COMPLEXITY [2]
+
 Algorithm		Average	Worst Case
 Space		        O(n)	    O(n)
 Search		O(log n)[1]	O(log n)[1]
