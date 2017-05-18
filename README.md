@@ -11,10 +11,11 @@ Every simple path from a node to a descendant leaf contains the same number of b
 
 TIME COMPLEXITY [2]
 
-Algorithm		Average	Worst Case
-Space		        O(n)	    O(n)
+Operation Complexity
 Search		O(log n)[1]	O(log n)[1]
+
 Insert		O(log n)[1]	O(log n)[1]
+
 Delete		O(log n)[1]	O(log n)[1]
 
 #REFERENCES
