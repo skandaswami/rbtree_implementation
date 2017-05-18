@@ -11,13 +11,13 @@ Every simple path from a node to a descendant leaf contains the same number of b
 
 TIME COMPLEXITY [2]
 
-Operation Complexity
+Operation |Average Complexity  |Worst Case Complexity
 
-Search		O(log n)[1]	O(log n)[1]
+Search		           O(log n)	               O(log n)
 
-Insert		O(log n)[1]	O(log n)[1]
+Insert		           O(log n)	               O(log n)
 
-Delete		O(log n)[1]	O(log n)[1]
+Delete		           O(log n)	               O(log n)
 
 #REFERENCES
 1.https://www.cs.auckland.ac.nz/~jmor159/PLDS210/niemann/s_rbt.htm
